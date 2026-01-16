@@ -1,15 +1,15 @@
 {
   "site": {
-    "name": "Elite Hardware",
+    "name": "Janatha Steels Hardware",
     "tagline": "Your Complete Hardware Solution",
     "description": "Quality hardware supplies, tools, paint, electrical, and plumbing essentials for professionals and DIY enthusiasts.",
     "logo": {
       "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Elite",
       "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Elite",
-      "alt": "Elite Hardware Logo"
+      "alt": "Janatha Steels Logo"
     },
     "seo": {
-      "title": "Elite Hardware - Quality Tools & Supplies",
+      "title": "Janatha Steels Hardware - Quality Tools & Supplies",
       "description": "Shop premium hardware, tools, paint, electrical supplies, plumbing essentials, nuts & bolts, and metal products. Professional quality for every project.",
       "keywords": [
         "hardware store",
@@ -25,7 +25,7 @@
     }
   },
   "navbar": {
-    "brandName": "Elite",
+    "brandName": "Janatha Steels",
     "mainLinks": [
       {
         "id": "new-featured",
@@ -603,7 +603,7 @@
       }
     ],
     "contact": {
-      "email": "info@Elite.com",
+      "email": "info@janathasteels.com",
       "phone": "(555) 123-4567"
     },
     "socialLinks": [
@@ -942,7 +942,7 @@
       }
     ],
     "featuredTestimonial": {
-      "quote": "We asked Elite to redesign our workshop setup and the transformation was incredible. Best investment we ever made!",
+      "quote": "We asked Janatha Steels to redesign our workshop setup and the transformation was incredible. Best investment we ever made!",
       "author": "James Rodriguez",
       "role": "Workshop Owner",
       "rating": 5
@@ -1178,10 +1178,10 @@
   },
   "footer": {
     "brand": {
-      "name": "Elite",
+      "name": "Janatha Steels",
       "tagline": "Hardware"
     },
-    "headline": "Build Better\nWith Elite",
+    "headline": "Build Better\nWith Janatha Steels",
     "taglineSmall": "Get your free quote at",
     "description": "Your trusted source for quality hardware, tools, and expert advice since 1985.",
     "cta": {
@@ -1189,7 +1189,7 @@
       "href": "#hero"
     },
     "contact": {
-      "email": "info@Elite.com",
+      "email": "info@janathasteels.com",
       "phone": "+1 (555) 123-4567",
       "address": "123 Hardware Lane, Tool City, TC 12345"
     },
@@ -1318,6 +1318,6 @@
         "href": "/terms"
       }
     ],
-    "copyright": "© 2026 Elite Hardware. All rights reserved."
+    "copyright": "© 2026 Janatha Steels. All rights reserved."
   }
 }
